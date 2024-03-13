@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sambasivade.github.io/SambaSiva/](https://sambasivade.github.io/SambaSiva/)
 
-- 💬 Ask me about ** Data Engineering**
+- 💬 Ask me about **Data Engineering**
 
 - 📫 How to reach me **sambasiva1330@gmail.com**
 
